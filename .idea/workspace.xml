@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b36651e1-88ad-4ae2-a6b9-17adba5fab18" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Form/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Form/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Form/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/FormCard/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/MovieCard/MovieCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/MovieCard/MovieCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/MovieScore/MovieScore.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/MovieScore/MovieScore.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/MovieStar/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/MovieStar/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,10 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -62,6 +67,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "dbbd1ea4f3c0a39bc53655ffdec829ca",
     "ts.external.directory.path": "/home/richard/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5591.52/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external"
   }
 }]]></component>
@@ -98,7 +104,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652543004360</updated>
-      <workItem from="1652543056711" duration="7788000" />
+      <workItem from="1652543056711" duration="7864000" />
+      <workItem from="1652567761160" duration="1801000" />
     </task>
     <servers />
   </component>
