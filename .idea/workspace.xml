@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b36651e1-88ad-4ae2-a6b9-17adba5fab18" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/MovieCard/MovieCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/MovieCard/MovieCard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Listing/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Listing/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Form/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Form/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Form/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/FormCard/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +65,11 @@
     "ts.external.directory.path": "/home/richard/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5591.52/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/src/components/FormCard" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="DsmovieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="dsmovie" />
@@ -93,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652543004360</updated>
-      <workItem from="1652543056711" duration="6242000" />
+      <workItem from="1652543056711" duration="7788000" />
     </task>
     <servers />
   </component>
